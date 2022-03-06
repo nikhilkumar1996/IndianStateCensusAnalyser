@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.32112.339
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ISCAnalyser", "ISCAnalyser.csproj", "{E9C3B618-BCCD-4444-9C7E-BBA7992511F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "..\TestProject1\TestProject1.csproj", "{83ED6B60-2444-4E92-A9C1-9C2B1F0F77FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E9C3B618-BCCD-4444-9C7E-BBA7992511F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9C3B618-BCCD-4444-9C7E-BBA7992511F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9C3B618-BCCD-4444-9C7E-BBA7992511F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83ED6B60-2444-4E92-A9C1-9C2B1F0F77FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83ED6B60-2444-4E92-A9C1-9C2B1F0F77FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83ED6B60-2444-4E92-A9C1-9C2B1F0F77FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83ED6B60-2444-4E92-A9C1-9C2B1F0F77FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
