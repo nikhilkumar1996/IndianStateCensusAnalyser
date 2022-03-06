@@ -21,8 +21,8 @@ namespace ISCAnalyser.POCO
             this.density = Convert.ToInt32(density);
         }
     }
-        
 
 
-    
+
+
 }

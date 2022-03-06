@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ISCAnalyser
 {
-    public class CensusAnalyserException:Exception
+    public class CensusAnalyserException : Exception
     {
         public enum ExceptionType
         {

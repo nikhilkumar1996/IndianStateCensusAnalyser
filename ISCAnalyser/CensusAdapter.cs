@@ -9,7 +9,7 @@ namespace ISCAnalyser
 {
     public abstract class CensusAdapter
     {
-        
+
 
         protected string[] GetCensusData(string csvFilePath, string dataHeaders)
         {
@@ -31,4 +31,3 @@ namespace ISCAnalyser
         }
     }
 }
-
